@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/ufernandez84/">
     <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-0000FF?style=for-the-badge">
   </a>
-  <a href="mailto:ulisesaxel@gmail.com?Subject=Ulises%20quiero%20ponerme%20en%20contacto%20contigo%desde%20GitHub">
+  <a href="mailto:ulisesaxel@gmail.com?Subject=Ulises%2c%20quiero%20ponerme%20en%20contacto%20contigo%desde%20GitHub">
     <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-F59789?style=for-the-badge&logo=gmail">
   </a>
 </p>
