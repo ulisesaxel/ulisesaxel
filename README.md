@@ -1,17 +1,16 @@
 <h1 align="center">
-  <strong>Hola, soy Ulises 👋</strong>
+  <strong>👋 Hola, soy Ulises 👋</strong>
 </h1>
 
 <!-- Contacto -->
-<a href="https://www.linkedin.com/in/ufernandez84/" target="_blank" >
-  <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-0000FF?style=for-the-badge">
-</a>
-
-<a href="mailto:ulisesaxel@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail">
-<img alt="Static Badge" src="https://img.shields.io/badge/Gmail-F59789?style=for-the-badge&logo=gmail">
-</a>
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/ufernandez84/" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-0000FF?style=for-the-badge">
+  </a>
+  <a href="mailto:ulisesaxel@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-F59789?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ## 👤 Acerca de mi
 <p>Ingeniero en Telecomunicaciones orientado a crear soluciones prácticas mediante automatización, desarrollo low‑code y pequeñas aplicaciones a medida.</p>
