@@ -3,9 +3,14 @@
 </h1>
 
 <!-- Contacto -->
-<a href="https://www.linkedin.com/in/ufernandez84/" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
+<a href="https://www.linkedin.com/in/ufernandez84/" target="_blank" >
+  <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-0000FF?style=for-the-badge">
 </a>
+
+<a href="mailto:ulisesaxel@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail">
+<img alt="Static Badge" src="https://img.shields.io/badge/Gmail-F59789?style=for-the-badge&logo=gmail">
+</a>
+
 
 
 ## 👤 Acerca de mi
