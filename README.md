@@ -16,29 +16,23 @@
 
 <!-- Iconos: https://github.com/marwin1991/profile-technology-icons/blob/main/icons/javascript.png  -->
 ## 🛠️ Stack Tecnológico
-- **Control de versiones:** 
-![Git](assets/git.png)
-![GitHub](assets/github.png)
+- **Control de versiones:**
+<br><br> <img src="assets/git.png" alt="Git" height="40px"> <img src="assets/github.png" alt="GitHub" height="40px">
 
-- **Herramientas:** 
-![Visual Studio Code](assets/visual_studio_code.png)
+- **Herramientas:**
+<br><br> <img src="assets/visual_studio_code.png" alt="Visual Studio Code" height="40px">
 
 - **Lenguajes:**
-![Markdown](assets/markdown.png)
-![HTML5](assets/html.png)
-![CSS3](assets/css.png)
-![JavaScript](assets/javascript.png)
-![Python](python.png)
+<br><br> <img src="assets/markdown.png" alt="Markdown" height="40px"> <img src="assets/html.png" alt="HTML" height="40px"> <img src="assets/css.png" alt="CSS" height="40px"> <img src="assets/javascript.png" alt="JavaScript" height="40px"> <img src="assets/python.png" alt="Python" height="40px">
 
 - **Bases de Datos:**
-![MySQL](assets/mysql.png)
+<br><br> <img src="assets/mysql.png" alt="MySQL" height="40px">
 
-- **CMS:** 
-![WordPress](assets/wordpress.png)
+- **CMS:**
+<br><br> <img src="assets/wordpress.png" alt="WordPress" height="40px">
 
 - **Sistemas Operativos:**
-![Windows](assets/windows.png)
-![macOS](assets/macos.png)
+<br><br> <img src="assets/windows.png" alt="Windows" height="40px"> <img src="assets/macos.png" alt="macOS" height="40px">
 
 ## 🌱 Actualmente estoy...
 Aprendiendo nuevas tecnologías para aportar soluciones de alto impacto con herramientas accesibles. Particularmente estoy estudiando ***Python*** de manera autodidacta.
