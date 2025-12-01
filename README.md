@@ -4,10 +4,10 @@
 
 <!-- Contacto -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ufernandez84/" target="_blank">
+  <a href="https://www.linkedin.com/in/ufernandez84/">
     <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-0000FF?style=for-the-badge">
   </a>
-  <a href="mailto:ulisesaxel@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail">
+  <a href="mailto:ulisesaxel@gmail.com?Subject=Ulises%20quiero%20ponerme%20en%20contacto%20contigo">
     <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-F59789?style=for-the-badge&logo=gmail">
   </a>
 </p>
