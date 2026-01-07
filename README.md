@@ -41,6 +41,7 @@
   ![Looker Badge](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=fff&style=for-the-badge)
   ![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2F562?style=for-the-badge)
   <br>
+  ![SQL Badge](https://img.shields.io/badge/SQL-F54927?style=for-the-badge)
   ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
 
 - **Lenguajes:**
@@ -58,6 +59,9 @@
   ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
   <br>
   ![Visual Studio Code Badge](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white")
+  <br>
+  ![Google Workspace Badge](https://img.shields.io/badge/Google%20Workspace-9AA0A6?style=for-the-badge)
+  ![Microsoft 365  Badge](https://img.shields.io/badge/Microsoft%20365-FFFFFF?&style=for-the-badge)
 
 - **CMS:**
   <br><br> 
