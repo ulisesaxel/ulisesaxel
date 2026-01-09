@@ -4,13 +4,13 @@
 
 <!-- Contacto -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ufernandez84/">
+  <a href="https://www.linkedin.com/in/ufernandez84/" target="_blank" rel="noopener" >
     <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-0000FF?style=for-the-badge">
   </a>
   <a href="mailto:ulisesaxel@gmail.com?Subject=Ulises%2c%20quiero%20ponerme%20en%20contacto%20contigo%20desde%20GitHub">
     <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-F59789?style=for-the-badge&logo=gmail">
   </a>
-    <a href="https://ulisesaxel.github.io/Portfolio-CV/">
+    <a href="https://ulisesaxel.github.io/Portfolio-CV/" target="_blank" rel="noopener" >
     <img alt="Static Badge" src="https://img.shields.io/badge/Sitio%20Web-D90062?style=for-the-badge">
   </a>
 </p>
